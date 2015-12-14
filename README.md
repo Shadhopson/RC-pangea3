@@ -1,12 +1,17 @@
-##RC-Pangea3
+# FOSSILS ON ANCIENT MAPS!
 
-A visualization of where and when fossils have been found around the world. We use D3 to create a 3D visualization of earth with the continents where they were during the time these organisms would have existed and place points on the globe that tell you what fossils were found and where they were found.
+Visualize fossil paleogeography superimposed on continental drift over 230 million years.
 
-See it here!: http://hackthedinos.github.io/RC-pangea3/public/ 
+## [hackthedinos.github.io/RC-pangea3/public](http://hackthedinos.github.io/RC-pangea3/public)
 
+<a href='http://www.recurse.com' title='Made with love at the Recurse Center'><img src='https://cloud.githubusercontent.com/assets/2883345/11322974/9e572610-910b-11e5-9775-698cbe868a67.png' height='59px'/></a>
 
-# Webpack Starter
-Simple directory and config setup for a Webpack project with front-end web only. 
+**Team RC-Pangea**
+ * Harry Truong @harrytruong 
+ * Jackie Gu @jackielgu
+ * Miriam Shiffman @meereeum
+ * Sher Minn Chong @piratefsh
+ * Shad Hopson @Shadhopson
 
 ## Development 
 ### Install
@@ -30,3 +35,9 @@ To compile HTML/CSS and JavaScript files for production:
 ```
 webpack --config webpack.config.js
 ```
+
+## Data
+
+* Continental drift model --> Müller <i>et al.</i> (2016) [Ocean basin evolution and global-scale plate reorganization events since Pangea breakup](http://www.earthbyte.org/ocean-basin-evolution-and-global-scale-plate-reorganization-events-since-pangea-breakup/).
+
+* Fossil specimens --> [The Paleobiology Database](https://paleobiodb.org/).
