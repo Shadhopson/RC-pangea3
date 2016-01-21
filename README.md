@@ -2,7 +2,12 @@
 
 Visualize fossil paleogeography superimposed on continental drift over 230 million years.
 
+See it here!:
+
 ## [hackthedinos.github.io/RC-pangea3/public](http://hackthedinos.github.io/RC-pangea3/public)
+
+Read about the project here!: 
+##[http://observer.com/2016/01/hack-the-dinos-2015/](http://observer.com/2016/01/hack-the-dinos-2015/)
 
 <a href='http://www.recurse.com' title='Made with love at the Recurse Center'><img src='https://cloud.githubusercontent.com/assets/2883345/11322974/9e572610-910b-11e5-9775-698cbe868a67.png' height='59px'/></a>
 
